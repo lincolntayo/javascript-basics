@@ -1,5 +1,5 @@
-let introduction = "my name is Moses, and i am a data analyst"
+let name;
 
-let age = 30;
+name ='Moses'
 
-let gender = 'Male';
+console.log(name)
